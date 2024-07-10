@@ -1,1 +1,1 @@
-# Financial_time_series
+# Financial time series
